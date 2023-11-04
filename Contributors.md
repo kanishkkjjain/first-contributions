@@ -2873,6 +2873,7 @@ Nikhil R
 - [Aravindraj Ganesan](https://github.com/Aravindraj27)
 - [Kevin](https://github.com/Aervtas)
 - [Ayush Goel](https://github.com/goelayush89)
+- [kanishk jain](https://github.com/kanishkkjjain)
 - [Pi HZ](https://github.com/PHZ20040126)
 - [Leo Muniz](https://github.com/leomunizq)
 - [Ayush Goel](https://github.com/PHZ20040126)
